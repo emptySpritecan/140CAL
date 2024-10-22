@@ -1,0 +1,71 @@
+2024-10-11 13:30:57.015 | SDL: version 2.26.5 initialised (windows video and wasapi audio)
+2024-10-11 13:30:57.017 | DISPLAY: Initialised 1036x777 windowed mode using bilinear scaling on display-0
+2024-10-11 13:30:57.291 | OPENGL: Vendor: NVIDIA Corporation
+2024-10-11 13:30:57.291 | OPENGL: Version: 4.6.0 NVIDIA 552.41
+2024-10-11 13:30:57.292 | OPENGL: GLSL version: 4.60 NVIDIA
+2024-10-11 13:30:57.292 | OPENGL: NPOT textures supported
+2024-10-11 13:30:57.293 | RENDER: Using adaptive CRT shader based on the graphics standard of the video mode
+2024-10-11 13:30:57.317 | RENDER: Auto-switched to shader 'crt/hercules'
+2024-10-11 13:30:57.318 | VGA: Pixel doubling enabled
+2024-10-11 13:30:57.318 | VIDEO: Using the DOS video mode's frame rate
+2024-10-11 13:30:57.326 | MEMORY: Using 4096 DOS memory pages (16 MB) at address: 0000018E4997C040
+2024-10-11 13:30:57.327 | VGA: Double scanning VGA video modes enabled
+2024-10-11 13:30:57.327 | VIDEO: Initialised S3 Trio64 VESA 2.0 compatible with 4 MB of FP DRAM supporting 86 modes
+2024-10-11 13:30:57.331 | VOODOO: Initialized with 4 MB of RAM, multithreading, and no bilinear filtering
+2024-10-11 13:30:57.331 | CAPTURE: Image capturer started
+2024-10-11 13:30:57.354 | MIXER: Negotiated 2-channel 48000 Hz audio of 1024-frame blocks
+2024-10-11 13:30:57.354 | MIXER: Master compressor enabled
+2024-10-11 13:30:57.450 | MIDI: Opened device: win32
+2024-10-11 13:30:57.451 | MPU-401: Running in intelligent mode on ports 330h and 331h
+2024-10-11 13:30:57.451 | OPL: Operating at 48000 Hz without resampling
+2024-10-11 13:30:57.451 | OPL: Running OPL3 on ports 220h and 388h
+2024-10-11 13:30:57.451 | OPL: Sound Blaster 16 OPL output filter enabled
+2024-10-11 13:30:57.451 | DMA: Initialised primary controller
+2024-10-11 13:30:57.452 | DMA: Initialised secondary controller
+2024-10-11 13:30:57.452 | SB: Operating at 22050 Hz and upsampling to the output rate
+2024-10-11 13:30:57.452 | SB16: Modern DAC output filter enabled
+2024-10-11 13:30:57.453 | SB16: Setting 'BLASTER' environment variable to 'A220 I7 D1 H5 T6'
+2024-10-11 13:30:57.453 | SB16: Running on port 220h, IRQ 7, DMA 1, and high DMA 5
+2024-10-11 13:30:57.453 | PCSPEAKER: Operating at 48000 Hz without resampling
+2024-10-11 13:30:57.453 | PCSPEAKER: Initialised discrete model
+2024-10-11 13:30:57.453 | PCSPEAKER: High-pass filter enabled (18 dB/oct at 120 Hz)
+2024-10-11 13:30:57.453 | PCSPEAKER: Low-pass filter enabled (12 dB/oct at 4800 Hz)
+2024-10-11 13:30:57.454 | MOUSE: Will be captured after the first left or right button click
+2024-10-11 13:30:57.454 | MOUSE: Middle button will capture/release the mouse (clicks not sent to the game/program)
+2024-10-11 13:30:57.454 | MOUSE (PS/2): Standard, 3 buttons
+2024-10-11 13:30:57.468 | DOS: Loaded modern locale for country 1, 'United States'
+2024-10-11 13:30:57.469 | SLIRP: Slirp version: 4.8.0
+2024-10-11 13:30:57.470 | SLIRP: Successfully initialized
+2024-10-11 13:30:57.470 | NE2000: Initialised on port 300h and IRQ 3
+2024-10-11 13:30:57.471 | AUTOEXEC: Using autoexec from one or more joined sections
+2024-10-11 13:30:57.565 | MAPPER: No joysticks found
+2024-10-11 13:30:57.566 | MAPPER: Loaded default key bindings
+2024-10-11 13:30:57.575 | RENDER: Auto-switched to shader 'crt/vga-1080p'
+2024-10-11 13:30:57.575 | SDL: Using standard SDI (auto) display refresh rate of 59.94 Hz
+2024-10-11 13:30:57.904 | DISPLAY: VGA 720x400 16-colour text mode 03h at 70.087 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.35 (20:27) pixel aspect ratio
+2024-10-11 13:30:57.906 | OPENGL: VSync state: on
+2024-10-11 13:30:57.907 | MOUNT: Path '..\base' found
+2024-10-11 13:31:04.070 | CHOICE: '1' (#1 of 8 choices)
+2024-10-11 13:31:04.115 | DOSBox has switched to max cycles, because of the setting: cycles=auto.
+If the game runs too fast, try a fixed cycles amount in DOSBox's options.
+2024-10-11 13:31:04.785 | SB16: DSP was reset
+2024-10-11 13:31:04.827 | SB16: DSP was reset
+2024-10-11 13:31:04.870 | SB16: DSP was reset
+2024-10-11 13:31:04.939 | RENDER: Auto-switched to shader 'crt/vga-1080p-fake-double-scan'
+2024-10-11 13:31:04.939 | VGA: Forcing single scanning of double-scanned VGA video modes
+2024-10-11 13:31:04.956 | DISPLAY: VGA 320x200 256-colour graphics mode 13h at 70.086 Hz throttled VFR, scaled to 1333x1000 pixels with 1:1.2 (5:6) pixel aspect ratio
+2024-10-11 13:32:15.270 | RENDER: Auto-switched to shader 'crt/vga-1080p'
+2024-10-11 13:32:15.271 | VGA: Double scanning VGA video modes enabled
+2024-10-11 13:32:15.273 | DISPLAY: VGA 720x400 16-colour text mode 03h at 70.087 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.35 (20:27) pixel aspect ratio
+2024-10-11 13:32:16.132 | SB16: DSP was reset
+2024-10-11 13:32:16.147 | SB: Low-pass filter enabled (0 dB/oct at 0 Hz)
+2024-10-11 13:32:27.598 | CHOICE: '6' (#6 of 8 choices)
+2024-10-11 13:32:43.118 | CHOICE: Aborted, returning errorlevel 0 (from 8 choices)
+2024-10-11 13:32:43.119 | PCSPEAKER: Shutting down discrete model
+2024-10-11 13:32:43.119 | OPL: Shutting down OPL3
+2024-10-11 13:32:43.119 | SB16: Shutting down
+2024-10-11 13:32:43.120 | MPU-401: Shutting down
+2024-10-11 13:32:43.224 | CAPTURE: Image capturer shutting down
+2024-10-11 13:32:43.224 | DMA: Shutting down primary controller
+2024-10-11 13:32:43.224 | DMA: Shutting down secondary controller
+2024-10-11 13:32:43.286 | atexit
